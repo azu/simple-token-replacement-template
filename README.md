@@ -2,6 +2,14 @@
 
 A reference implementation for Simple token replacement template.
 
+There are three major “levels” of functionality in templating languages.
+
+- Simple Token Replacement
+- Limited Control Structures
+- Programming Language
+
+![Three Levels Templates](docs/three.png)
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
