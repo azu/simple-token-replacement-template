@@ -1,7 +1,7 @@
 {
   "name": "simple-token-replacement-template",
   "version": "1.0.0",
-  "description": "Example of Simple token replacement template",
+  "description": "Reference implementation for Simple token replacement template.",
   "homepage": "https://github.com/azu/simple-token-replacement-template",
   "bugs": {
     "url": "https://github.com/azu/simple-token-replacement-template/issues"

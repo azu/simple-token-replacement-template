@@ -1,6 +1,6 @@
-# simple-token-replacement-template
+# simple-token-replacement-template [![Build Status](https://travis-ci.org/azu/simple-token-replacement-template.svg?branch=master)](https://travis-ci.org/azu/simple-token-replacement-template)
 
-Example of Simple token replacement template
+A reference implementation for Simple token replacement template.
 
 ## Install
 
